@@ -24,12 +24,18 @@ body {
   width: 760px;
   max-width: 100%;
   margin: auto;
+<<<<<<< HEAD
   padding: 20px;
 }
+=======
+}
 
+ 
 .section {
   height: 450px;
   width: 100%;
+  margin-top: 20px;
+>>>>>>> 28ffe3a (added bottom section)
   display: flex;
   justify-content: center;
   align-items: center;
